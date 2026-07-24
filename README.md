@@ -130,3 +130,8 @@ Create a `.env` file in the project root:
 ```env
 VITE_SUPABASE_URL=your_supabase_project_url
 VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
+Author
+
+Pratheep M
+
+B.Tech Artificial Intelligence and Data Science Student
