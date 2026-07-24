@@ -1,0 +1,6 @@
+{
+  "name": "BNM Campus AI",
+  "description": "Complete campus learning, academic management system, and multi-agent AI assistant for students and teachers at BNM Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
